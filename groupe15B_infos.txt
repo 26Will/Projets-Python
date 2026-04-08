@@ -1,0 +1,7 @@
+Nom du fichier : groupe15B_data.txt
+Nombre de films : 100
+Score minimum : 1.0
+Score maximum : 8.9
+Score moyen : 6.53
+Taux de drames : 49.00%
+Taux de films d’action : 15.00%
