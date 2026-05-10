@@ -1,5 +1,6 @@
 code_groupe = "15B"
-nom_entree = "groupe15B_data.txt"
+# On indique le chemin : ../ pour reculer, puis data_base/ pour y entrer
+nom_entree = "../data_base/groupe15B_data.txt" 
 dossier_destination = "../data_res/"
 
 # --- Lecture du fichier source ---
